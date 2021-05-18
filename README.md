@@ -80,3 +80,6 @@ For a full list of sponsors, see
 MIT
 
 <img src="https://ga-beacon.appspot.com/UA-58928488-2/registrator/readme?pixel" />
+
+第三方注册模式（The Third-Party Registration Pattern）
+https://www.cnblogs.com/stableboy/p/11080666.html
